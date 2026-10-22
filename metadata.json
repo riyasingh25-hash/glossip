@@ -1,0 +1,6 @@
+{
+  "name": "GLOSSIP — Spill it. Gloss it.",
+  "description": "Quirky, cool-girl Gen Z lip glosses & lip oils. High-shine, non-sticky formulas with main-character energy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
